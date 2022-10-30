@@ -1,0 +1,20 @@
+body, h2, p{ margin: 0; padding: 0; font-family: Arial, sans-serif; }
+
+.container{
+	position: relative;
+	text-align: center;
+  background-image: url("https://static.turbosquid.com/Preview/2015/09/22__10_18_13/B1.jpga7acfbd9-447c-46ca-81d9-948bd30ab9e5Zoom.jpg");
+	color: white;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container h2{
+	padding: 3vw;
+	font-size: 18px;
+}
+
+.container h2 small{ font-size: 14px; }
